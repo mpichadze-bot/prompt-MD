@@ -10,6 +10,8 @@ A powerful markdown-based prompt management system for organizing, versioning, a
 - 🔄 **Version Control**: Track prompt changes and improvements
 - 💻 **CLI Tool**: Manage prompts from the command line
 - 📊 **Statistics**: Track prompt usage and effectiveness
+- 🚀 **Professional PM Library**: 7 advanced product management prompts with 2-phase workflow
+- 🎯 **Context Engineering**: Prompts use XML tags, Chain of Thought, and Reflection Loops
 
 ## Installation
 
@@ -49,6 +51,7 @@ prompt-MD/
 │   ├── coding/          # Coding-related prompts
 │   ├── writing/         # Writing prompts
 │   ├── analysis/        # Analysis prompts
+│   ├── product-management/  # Professional PM prompts
 │   └── templates/       # Reusable templates
 ├── prompt_md.py         # Main CLI tool
 ├── requirements.txt     # Python dependencies
@@ -80,13 +83,34 @@ Please review the following code for:
 {{CODE_BLOCK}}
 ```
 
-## Examples
+## Prompt Library
 
-Check out the `prompts/` directory for example prompts including:
-- Code generation and debugging
-- Writing and content creation
-- Data analysis and research
-- Creative brainstorming
+Check out the `prompts/` directory for a comprehensive collection of professional prompts:
+
+### 📦 Product Management (7 prompts)
+Advanced PM workflows with Phase 1 (Clarification) + Phase 2 (Execution):
+- **RICE Scoring Agent** - Solution prioritization using the RICE framework
+- **Feedback Analysis Agent** - Analyze unstructured customer feedback
+- **Executive Storyteller** - Craft compelling pitch decks and presentations
+- **PRD Architect** - Create engineering-ready Product Requirements Documents
+- **Agile Architect** - Generate Epics and User Stories with Gherkin acceptance criteria
+- **Full-Stack Prototyper** - Build rapid prototypes with React and Tailwind
+- **Advanced Prompt Generator** - Meta-prompt for creating production-ready prompts
+
+### 💻 Coding (3 prompts)
+- Code Review Helper
+- Debug Helper
+- Code Explainer
+
+### ✍️ Writing (2 prompts)
+- Blog Post Writer
+- Professional Email Writer
+
+### 📊 Analysis (1 prompt)
+- Data Analysis Assistant
+
+### 🎯 Templates (1 prompt)
+- Basic Prompt Template
 
 ## Contributing
 
