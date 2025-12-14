@@ -32,6 +32,7 @@ Ask me as many questions as needed about:
    - Do I need **Chain Prompts**? (Is this a multi-step workflow?).
    - Do I need a **Reflection Loop**? (Should the AI verify understanding before outputting?).
    - Do I need **Context Engineering**? (What background information must be pre-loaded?).
+   - Do I need **ReAct Agent Framework**? (Does the task require a loop of Thought, Action, and Observation with external tools?).
 
 4. **The Constraints:**
    - Are there specific formats or standards I must follow? (e.g., "Must use Gherkin syntax").
